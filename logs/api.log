@@ -1,0 +1,941 @@
+14:00:56.503 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+14:00:56.504 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+14:00:56.509 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+14:00:56.509 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+14:00:56.510 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+14:00:56.510 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+14:08:29.828 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+14:08:29.832 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+14:08:29.836 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+14:08:29.837 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+14:08:29.837 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+14:08:29.837 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+14:08:29.838 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+14:08:29.838 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+14:15:06.358 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+14:15:06.359 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+14:15:06.364 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+14:15:06.364 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+14:15:06.365 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+14:15:06.365 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+14:15:06.366 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+14:15:06.367 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+14:16:33.377 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+14:16:33.378 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+14:16:33.385 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+14:16:33.385 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+14:16:33.386 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+14:16:33.387 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+14:16:33.388 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+14:16:33.388 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+14:17:54.767 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+14:17:54.768 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+14:17:54.776 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+14:17:54.776 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+14:17:54.777 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+14:17:54.778 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+14:17:54.780 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+14:17:54.780 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+14:19:59.823 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+14:19:59.824 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+14:19:59.828 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+14:19:59.828 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+14:19:59.829 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+14:19:59.829 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+14:19:59.829 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+14:19:59.830 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+14:23:25.438 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+14:23:25.439 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+14:23:25.446 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+14:23:25.446 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+14:23:25.447 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+14:23:25.447 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+14:23:25.448 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+14:23:25.448 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+14:40:32.867 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+14:40:32.877 Watching directory: D:\gaugearchetypejava\specs
+14:40:32.877 Found 1 files
+14:40:32.879 Initializing concepts cache with 0 concepts
+14:40:32.883 Initializing specs cache with 1 specs
+14:40:32.883 Adding specs from D:\gaugearchetypejava\specs\example.spec
+14:40:32.883 Initializing steps cache with 4 steps
+14:41:17.940 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+14:41:17.970 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+14:41:17.993 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+14:41:17.994 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+14:41:17.994 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+14:41:17.994 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+14:41:17.995 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+14:41:17.995 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+14:52:50.365 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+14:52:50.368 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+14:52:50.376 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+14:52:50.376 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+14:52:50.377 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+14:52:50.378 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+14:52:50.379 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+14:52:50.379 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+14:52:50.380 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Check if <file:/work/content.txt> is visible" hasInlineTable:false > 
+14:52:50.380 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Check if {} is visible" parameterizedStepValue:"* Check if <file:/work/content.txt> is visible" parameters:"file:/work/content.txt" > > 
+14:54:49.142 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+14:54:49.145 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+14:54:49.150 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+14:54:49.151 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+14:54:49.151 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+14:54:49.151 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+14:54:49.152 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+14:54:49.152 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+14:54:49.152 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Check if <file:/work/content.txt> is visible" hasInlineTable:false > 
+14:54:49.153 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Check if {} is visible" parameterizedStepValue:"* Check if <file:/work/content.txt> is visible" parameters:"file:/work/content.txt" > > 
+14:54:59.271 Spec file removed: D:\gaugearchetypejava\specs\example.spec
+14:54:59.271 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+14:54:59.283 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+14:55:15.793 Spec file removed: D:\gaugearchetypejava\specs\example.spec
+14:55:15.793 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+14:55:15.802 Spec Parse failure: [[ParseError] D:\gaugearchetypejava\specs\example.spec:42 Multiple spec headings found in same file => '# run ']
+14:55:15.802 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+14:55:15.806 Spec Parse failure: [[ParseError] D:\gaugearchetypejava\specs\example.spec:42 Multiple spec headings found in same file => '# run ']
+14:55:47.256 Spec file removed: D:\gaugearchetypejava\specs\example.spec
+14:55:47.257 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+14:55:47.262 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+14:58:19.008 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"On the customer page" hasInlineTable:false > 
+14:58:19.008 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"On the customer page" parameterizedStepValue:"On the customer page" > > 
+14:58:19.075 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"On the customer page" hasInlineTable:false > 
+14:58:19.075 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"On the customer page" parameterizedStepValue:"On the customer page" > > 
+14:59:56.217 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.241 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.248 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.248 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.248 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.249 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.253 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Check if <file:/work/content.txt> is visible" hasInlineTable:false > 
+14:59:56.253 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Check if {} is visible" parameterizedStepValue:"* Check if <file:/work/content.txt> is visible" parameters:"file:/work/content.txt" > > 
+14:59:56.268 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.269 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.270 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.270 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.272 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.272 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.273 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.273 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.345 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.345 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.346 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.346 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.346 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.347 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.347 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.347 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.427 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.427 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.427 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.428 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.454 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.454 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.454 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.454 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.483 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.484 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.484 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.484 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.518 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.518 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.519 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.519 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.547 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.548 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.548 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.548 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.578 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.578 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.579 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.579 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.610 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.610 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.611 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.611 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.644 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.644 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.645 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.645 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.703 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.704 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.704 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.704 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.704 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.705 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.705 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.705 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.763 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.763 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.764 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.764 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.764 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.764 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.764 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.764 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.765 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.765 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.766 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.766 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.855 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.856 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.856 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.856 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.857 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.858 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.859 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.859 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.905 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.906 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.906 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.906 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.958 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.958 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.959 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.959 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.987 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.988 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:56.988 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:56.988 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:57.013 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:57.014 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:57.014 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:57.014 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:57.044 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:57.044 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:57.044 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:57.045 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:57.079 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:57.080 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:57.080 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:57.080 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:58.852 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:58.853 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:58.854 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:58.854 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:58.859 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:58.860 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:58.869 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:58.869 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:58.870 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:58.870 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:58.875 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:58.875 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:58.875 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:58.876 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:58.967 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:58.968 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:58.968 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:58.968 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:58.968 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:58.969 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:58.969 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:58.969 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:59.027 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:59.027 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:59.028 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:59.029 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:59.031 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:59.031 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:59.031 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:59.031 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:59.033 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:59.033 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+14:59:59.034 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+14:59:59.034 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:00:07.653 Spec file removed: D:\gaugearchetypejava\specs\example.spec
+15:00:07.653 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+15:00:07.656 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+15:00:15.418 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:00:15.419 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:00:15.426 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"On the customer page" hasInlineTable:false > 
+15:00:15.426 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"On the customer page" parameterizedStepValue:"On the customer page" > > 
+15:00:15.426 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:00:15.426 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:00:15.427 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:00:15.427 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:00:15.427 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:00:15.427 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:00:15.428 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Check if <file:/work/content.txt> is visible" hasInlineTable:false > 
+15:00:15.428 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Check if {} is visible" parameterizedStepValue:"* Check if <file:/work/content.txt> is visible" parameters:"file:/work/content.txt" > > 
+15:05:29.291 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:05:29.292 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:05:29.299 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"On the customer page" hasInlineTable:false > 
+15:05:29.299 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"On the customer page" parameterizedStepValue:"On the customer page" > > 
+15:05:29.300 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:05:29.300 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:05:29.301 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:05:29.301 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:05:29.302 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:05:29.302 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:05:29.303 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Check if <file:/work/content.txt> is visible" hasInlineTable:false > 
+15:05:29.303 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Check if {} is visible" parameterizedStepValue:"* Check if <file:/work/content.txt> is visible" parameters:"file:/work/content.txt" > > 
+15:07:03.895 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:07:03.896 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:07:03.901 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"On the customer page" hasInlineTable:false > 
+15:07:03.901 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"On the customer page" parameterizedStepValue:"On the customer page" > > 
+15:07:03.901 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:07:03.901 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:07:03.902 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:07:03.902 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:07:03.902 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:07:03.903 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:10:39.087 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:10:39.088 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:10:39.093 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"On the customer page" hasInlineTable:false > 
+15:10:39.093 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"On the customer page" parameterizedStepValue:"On the customer page" > > 
+15:10:39.094 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:10:39.094 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:10:39.095 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:10:39.095 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:10:39.095 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:10:39.096 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:12:04.221 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"On the customer page" hasInlineTable:false > 
+15:12:04.222 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"On the customer page" parameterizedStepValue:"On the customer page" > > 
+15:12:04.231 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:12:04.231 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:12:04.233 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:12:04.233 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:12:04.234 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:12:04.235 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:12:04.235 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:12:04.236 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:18:58.929 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"On the customer page" hasInlineTable:false > 
+15:18:58.930 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"On the customer page" parameterizedStepValue:"On the customer page" > > 
+15:18:58.935 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:18:58.936 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:18:58.936 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:18:58.936 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:18:58.937 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:18:58.937 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:18:58.937 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:18:58.937 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:21:49.179 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"On the customer page" hasInlineTable:false > 
+15:21:49.180 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"On the customer page" parameterizedStepValue:"On the customer page" > > 
+15:21:49.185 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:21:49.185 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:21:49.186 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:21:49.186 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:21:49.187 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:21:49.187 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:21:49.188 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:21:49.188 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:22:30.800 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"On the customer page" hasInlineTable:false > 
+15:22:30.801 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"On the customer page" parameterizedStepValue:"On the customer page" > > 
+15:22:30.806 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:22:30.806 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:22:30.807 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:22:30.807 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:22:30.807 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:22:30.807 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:22:30.808 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:22:30.808 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:26:12.624 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"D" hasInlineTable:false > 
+15:26:12.625 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"D" parameterizedStepValue:"D" > > 
+15:26:13.216 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Dri" hasInlineTable:false > 
+15:26:13.217 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Dri" parameterizedStepValue:"Dri" > > 
+15:26:14.140 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver" hasInlineTable:false > 
+15:26:14.140 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver" parameterizedStepValue:"Driver" > > 
+15:26:14.604 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver " hasInlineTable:false > 
+15:26:14.604 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver" parameterizedStepValue:"Driver" > > 
+15:26:14.620 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver " hasInlineTable:false > 
+15:26:14.620 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver" parameterizedStepValue:"Driver" > > 
+15:26:16.480 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver st" hasInlineTable:false > 
+15:26:16.480 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver st" parameterizedStepValue:"Driver st" > > 
+15:26:18.375 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver sta" hasInlineTable:false > 
+15:26:18.376 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver sta" parameterizedStepValue:"Driver sta" > > 
+15:26:18.968 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver start" hasInlineTable:false > 
+15:26:18.969 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver start" parameterizedStepValue:"Driver start" > > 
+15:26:18.991 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver start" hasInlineTable:false > 
+15:26:18.991 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver start" parameterizedStepValue:"Driver start" > > 
+15:26:25.167 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.167 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.179 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.179 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.180 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.180 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.202 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.202 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.203 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.203 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.240 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.240 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.248 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.248 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.263 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.263 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.264 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.264 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.321 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.321 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.322 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.322 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.322 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.322 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.322 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.322 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.373 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.373 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.374 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.374 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.399 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.400 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.401 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.401 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.424 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.424 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.424 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.425 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.471 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.471 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.472 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.472 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.494 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.495 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.495 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.495 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.522 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.522 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.523 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.523 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.558 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.558 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.559 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.559 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.560 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.560 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.561 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.561 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.615 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.615 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.616 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.617 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.619 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.619 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.620 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.620 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.621 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.621 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.621 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.621 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.710 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.710 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.711 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.711 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.742 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.742 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.742 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.743 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.767 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.767 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.767 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.767 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.799 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.799 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.800 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.800 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.831 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.831 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.831 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.832 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.856 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.856 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.857 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.857 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.889 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.890 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.890 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.891 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.924 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.925 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.925 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.925 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.964 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.964 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.965 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:25.965 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:25.983 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+15:26:25.983 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <table>" parameters:"table" > allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <hello> to <gauge>" parameters:"hello" parameters:"gauge" > allSteps:<stepValue:"On the customer page" parameterizedStepValue:"On the customer page" > allSteps:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > allSteps:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <gauge> has <3> vowels." parameters:"gauge" parameters:"3" > > 
+15:26:25.986 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+15:26:25.986 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+15:26:51.005 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:51.013 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:51.017 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:51.017 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:51.018 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:51.018 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:51.063 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:51.063 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.718 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.718 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.729 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.730 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.732 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.732 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.733 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.734 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.761 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.761 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.764 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.764 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.764 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.764 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.765 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.765 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.765 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.765 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.882 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.882 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.882 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.882 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.883 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.883 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.883 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.883 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.883 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.883 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.883 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.884 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.962 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.962 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.963 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.963 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.964 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.964 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.964 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.964 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.965 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.965 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:54.965 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:54.965 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.070 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.070 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.071 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.071 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.098 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.098 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.099 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.099 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.099 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.099 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.100 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.100 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.157 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.157 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.158 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.158 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.191 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.191 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.191 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.192 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.195 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.196 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.196 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.196 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.240 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.241 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.241 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.241 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.303 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.304 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.304 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.304 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.304 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.304 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.305 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.305 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.362 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.362 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.363 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.363 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.386 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.386 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.387 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.387 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.418 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.418 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.418 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.419 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.441 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.441 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:55.451 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:55.451 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.029 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.029 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.030 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.030 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.033 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.033 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.034 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.035 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.036 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.037 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.037 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.037 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.154 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.154 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.157 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.158 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.158 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.163 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.164 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.164 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.164 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.164 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.164 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.164 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.242 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.243 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.244 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.244 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.276 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.276 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.276 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.276 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.317 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.317 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.318 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.318 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.352 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.352 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:26:59.353 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:26:59.353 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:27:01.108 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:27:01.108 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:27:01.109 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:27:01.110 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:27:01.110 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:27:01.110 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:27:01.111 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:27:01.111 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:27:01.112 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:27:01.112 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:27:01.113 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:27:01.113 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:27:22.518 Spec file removed: D:\gaugearchetypejava\specs\example.spec
+15:27:22.518 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+15:27:22.522 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+15:27:29.796 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver start" hasInlineTable:false > 
+15:27:29.796 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver start" parameterizedStepValue:"Driver start" > > 
+15:27:29.802 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:27:29.802 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:27:29.803 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:27:29.803 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:27:29.804 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:27:29.804 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:27:29.805 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:27:29.805 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:28:25.867 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver start" hasInlineTable:false > 
+15:28:25.868 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver start" parameterizedStepValue:"Driver start" > > 
+15:28:25.873 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:28:25.873 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:28:25.874 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:28:25.874 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:28:25.874 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:28:25.875 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:28:25.875 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:28:25.875 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:28:47.910 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver start" hasInlineTable:false > 
+15:28:47.911 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver start" parameterizedStepValue:"Driver start" > > 
+15:28:47.915 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:28:47.915 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:28:47.916 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:28:47.916 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:28:47.917 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:28:47.917 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:28:47.918 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:28:47.918 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:33:33.786 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver start" hasInlineTable:false > 
+15:33:33.788 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver start" parameterizedStepValue:"Driver start" > > 
+15:33:33.793 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:33:33.793 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:33:33.794 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:33:33.794 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:33:33.795 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:33:33.795 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:33:33.795 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:33:33.795 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:48:21.051 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.051 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.058 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.059 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.085 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.085 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.091 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.091 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.092 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.092 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.151 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.152 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.155 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.155 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.156 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.157 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.157 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.158 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.229 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.230 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.230 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.230 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.259 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.259 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.259 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.259 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.300 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.300 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.301 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.301 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.334 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.334 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.335 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.335 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.379 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.379 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.380 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.380 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.417 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.417 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.418 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.418 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.452 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.452 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.453 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.453 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.513 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.513 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.841 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.841 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.858 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.858 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.864 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.864 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.864 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.864 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.866 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.866 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.868 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.868 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.868 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.869 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.869 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.870 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.871 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.871 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.994 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.995 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:21.995 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:21.995 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.001 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.001 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.002 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.002 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.002 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.002 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.003 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.003 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.114 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.114 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.114 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.114 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.116 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.116 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.118 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.118 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.121 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.121 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.122 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.122 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.161 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.161 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.161 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.162 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.246 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.246 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.246 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.246 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.246 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.247 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.247 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.247 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.247 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.247 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.247 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.247 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.319 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.320 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.330 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.330 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.335 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.335 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.336 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.336 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.377 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.378 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.378 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.378 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.442 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.442 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.442 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.442 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.442 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.443 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.443 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.446 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.485 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.486 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.486 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.486 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.530 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.530 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.530 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.530 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.531 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.531 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.531 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.531 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.581 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.581 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.582 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.582 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.646 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.646 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.647 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.647 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.675 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.675 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.676 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.676 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.723 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.723 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:22.723 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:22.724 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:23.559 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+15:48:23.559 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Driver start" parameterizedStepValue:"Driver start" > allSteps:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > allSteps:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <gauge> has <3> vowels." parameters:"gauge" parameters:"3" > allSteps:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <table>" parameters:"table" > allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <hello> to <gauge>" parameters:"hello" parameters:"gauge" > allSteps:<stepValue:"On the customer page" parameterizedStepValue:"On the customer page" > > 
+15:48:23.561 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+15:48:23.561 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+15:48:33.463 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"" hasInlineTable:false > 
+15:48:33.464 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"" parameterizedStepValue:"" > > 
+15:48:38.012 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+15:48:38.012 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > allSteps:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <gauge> has <3> vowels." parameters:"gauge" parameters:"3" > allSteps:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <table>" parameters:"table" > allSteps:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <hello> to <gauge>" parameters:"hello" parameters:"gauge" > allSteps:<stepValue:"On the customer page" parameterizedStepValue:"On the customer page" > allSteps:<stepValue:"Driver start" parameterizedStepValue:"Driver start" > > 
+15:48:38.013 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+15:48:38.013 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+15:48:41.784 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <hello> to <gauge>" hasInlineTable:false > 
+15:48:41.785 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <hello> to <gauge>" parameters:"hello" parameters:"gauge" > > 
+15:48:46.131 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <h> to <gauge>" hasInlineTable:false > 
+15:48:46.131 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <h> to <gauge>" parameters:"h" parameters:"gauge" > > 
+15:48:46.951 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say" hasInlineTable:false > 
+15:48:46.951 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say" parameterizedStepValue:"Say" > > 
+15:48:47.448 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <HU> to <gauge>" hasInlineTable:false > 
+15:48:47.452 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <HU> to <gauge>" parameters:"HU" parameters:"gauge" > > 
+15:48:49.266 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <H> to <gauge>" hasInlineTable:false > 
+15:48:49.266 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <H> to <gauge>" parameters:"H" parameters:"gauge" > > 
+15:48:50.470 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <HI> to <gauge>" hasInlineTable:false > 
+15:48:50.470 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <HI> to <gauge>" parameters:"HI" parameters:"gauge" > > 
+15:48:50.476 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <HI> to <gauge>" hasInlineTable:false > 
+15:48:50.480 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <HI> to <gauge>" parameters:"HI" parameters:"gauge" > > 
+15:48:53.314 Spec file removed: D:\gaugearchetypejava\specs\example.spec
+15:48:53.317 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+15:48:53.325 Spec Parse failure: [[ParseError] D:\gaugearchetypejava\specs\example.spec:45 Dynamic parameter <HI> could not be resolved => 'Say <HI> to <gauge>']
+15:48:53.326 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+15:48:53.333 Spec Parse failure: [[ParseError] D:\gaugearchetypejava\specs\example.spec:45 Dynamic parameter <HI> could not be resolved => 'Say <HI> to <gauge>']
+15:50:29.923 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver start" hasInlineTable:false > 
+15:50:29.924 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver start" parameterizedStepValue:"Driver start" > > 
+15:50:29.928 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:50:29.928 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:50:29.929 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:50:29.929 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:50:29.930 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:50:29.930 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:50:29.930 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:50:29.931 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:50:39.269 Spec file removed: D:\gaugearchetypejava\specs\example.spec
+15:50:39.275 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+15:50:39.286 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+15:50:45.779 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver start" hasInlineTable:false > 
+15:50:45.780 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver start" parameterizedStepValue:"Driver start" > > 
+15:50:45.785 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:50:45.785 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:50:45.786 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:50:45.788 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:50:45.790 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:50:45.790 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:50:45.791 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:50:45.791 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:51:36.925 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver start" hasInlineTable:false > 
+15:51:36.925 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver start" parameterizedStepValue:"Driver start" > > 
+15:51:36.931 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:51:36.932 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:51:36.932 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:51:36.932 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:51:36.933 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:51:36.933 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:51:36.934 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:51:36.934 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:52:03.303 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver start" hasInlineTable:false > 
+15:52:03.304 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver start" parameterizedStepValue:"Driver start" > > 
+15:52:03.310 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:52:03.310 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:52:03.311 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:52:03.311 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:52:03.312 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:52:03.312 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:52:03.312 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:52:03.315 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:52:29.041 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver start" hasInlineTable:false > 
+15:52:29.043 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver start" parameterizedStepValue:"Driver start" > > 
+15:52:29.048 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:52:29.049 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:52:29.049 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:52:29.049 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:52:29.050 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:52:29.050 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:52:29.052 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:52:29.052 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:54:01.468 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver start" hasInlineTable:false > 
+15:54:01.469 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver start" parameterizedStepValue:"Driver start" > > 
+15:54:01.474 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:54:01.475 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:54:01.475 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:54:01.475 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:54:01.476 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:54:01.476 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:54:01.477 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:54:01.477 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:54:26.864 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Driver start" hasInlineTable:false > 
+15:54:26.867 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Driver start" parameterizedStepValue:"Driver start" > > 
+15:54:26.871 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" hasInlineTable:false > 
+15:54:26.872 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:54:26.872 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Say <greeting> to <product name>" hasInlineTable:false > 
+15:54:26.873 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Say {} to {}" parameterizedStepValue:"Say <greeting> to <product name>" parameters:"greeting" parameters:"product name" > > 
+15:54:26.873 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." hasInlineTable:false > 
+15:54:26.874 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:54:26.875 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." hasInlineTable:false > 
+15:54:26.896 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+16:35:26.900 Spec file removed: D:\gaugearchetypejava\specs\example.spec
+16:35:26.904 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+16:35:26.914 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+16:35:27.078 Spec file removed: D:\gaugearchetypejava\specs\example.spec
+16:35:27.079 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+16:35:27.087 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+16:35:27.161 Spec file removed: D:\gaugearchetypejava\specs\example.spec
+16:35:27.163 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+16:35:27.175 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+16:36:20.382 Spec file removed: D:\gaugearchetypejava\specs\example.spec
+16:36:20.382 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+16:36:20.391 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+16:38:50.725 Spec file removed: D:\gaugearchetypejava\specs\example.spec
+16:38:50.725 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+16:38:50.735 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+16:38:51.380 Spec file removed: D:\gaugearchetypejava\specs\example.spec
+16:38:51.403 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+16:38:51.409 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+16:38:52.539 Spec file removed: D:\gaugearchetypejava\specs\example.spec
+16:38:52.546 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+16:38:52.554 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+16:39:21.564 Spec file removed: D:\gaugearchetypejava\specs\example.spec
+16:39:21.565 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+16:39:21.573 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+16:40:23.964 Spec file removed: D:\gaugearchetypejava\specs\example.spec
+16:40:23.966 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
+16:40:23.987 Spec file added / modified: D:\gaugearchetypejava\specs\example.spec
